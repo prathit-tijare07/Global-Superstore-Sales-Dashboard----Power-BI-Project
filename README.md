@@ -1,4 +1,4 @@
-# Global-Superstore-Sales-Dashboard---Power-BI
+# Global-Superstore-Sales-Dashboard ---Power-BI Project
 
 Title - Global Superstore Sales Dashboard
 Tool used : - POWER BI DESKTOP 
